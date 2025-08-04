@@ -1,6 +1,6 @@
-objectid,title,format,filename,author,originalpublicationyear,publisher
-item1,We Have Always Lived In The Castle,image/jpeg,btp1.jpg,Shirley Jackson,1962,The Viking Press
-item2,Anne of Green Gables,image/jpeg,btp2.jpg,L. M. Montgomery,1908,Bantam Books
-item3,Emma,image/jpeg,btp3.jpg,Jane Austen,1816,Penguin Books
-item4,Susannah Morrow,image/jpeg,btp4.jpg,Megan Chance,2002,Warner Books
-item5,The Passage,image/jpeg,btp5.jpg,Justin Cronin,2010,Seal Books
+objectid,title,format,filename,author,date,description
+item1,We Have Always Lived In The Castle,image/jpeg,btp1.jpg,Shirley Jackson,1962,This edition was published by Popular Library (New York) in 1962. My edition separates into three pieces if it's not held carefully.
+item2,Anne of Green Gables,image/jpeg,btp2.jpg,L. M. Montgomery,1908,This edition was published by Bantam Books (New York) in 1987. Its cover features a faded still frame taken from the CBC television series.
+item3,Emma,image/jpeg,btp3.jpg,Jane Austen,1816,"This edition was published by Penguin Books (London) in 1996. The spine of this edition is badly damaged, and its top half is peeling off."
+item4,Susannah Morrow,image/jpeg,btp4.jpg,Megan Chance,2002,"This edition was published by Warner Books (New York) in 2002. My copy has three separate stickers on its cover, spine, and back from its many travels between used bookstore."
+item5,The Passage,image/jpeg,btp5.jpg,Justin Cronin,2010,This edition was published by Seal Books (USA) in 2010. My edition has multiple loose pages that threaten to fall out each time it is opened.
